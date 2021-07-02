@@ -40,6 +40,7 @@ CREATE TABLE `job_grades` (
 );
 
 INSERT INTO `job_grades` VALUES (1,'unemployed',0,'unemployed','Unemployed',200,'{}','{}');
+INSERT INTO `job_grades` VALUES (1,'unemployed2',0,'rsa','Etat',200,'{}','{}');
 
 CREATE TABLE `jobs` (
 	`name` VARCHAR(50) NOT NULL,
@@ -49,3 +50,4 @@ CREATE TABLE `jobs` (
 );
 
 INSERT INTO `jobs` VALUES ('unemployed','Unemployed');
+INSERT INTO `jobs` VALUES ('unemployed2','Etat');
