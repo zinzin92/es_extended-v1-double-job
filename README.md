@@ -1,5 +1,7 @@
 # © Aide FiveM | Discord : https://discord.gg/puEzjM8
 
+[![Discord](https://img.shields.io/discord/729256474471170089.svg)](https://discord.gg/puEzjM8)
+
 # es_extended LEGACY / BROKEN / WONTFIX
 
 ### Things hapenning here now https://github.com/ESX-Org/es_extended/tree/develop (WIP)
